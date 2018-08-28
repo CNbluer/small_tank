@@ -1,5 +1,5 @@
 package main
-
+//test github
 import (
 	"Clib"
 	"fmt"
@@ -7,7 +7,7 @@ import (
 	"math/rand"
 	"time"
 )
-
+//
 const Wide int=20
 const High int=20
 var key =make(chan int)
